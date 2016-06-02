@@ -1,0 +1,54 @@
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial;
+  font-weight: 200;
+}
+
+#students {
+  padding: 10px 0px;
+}
+
+.listing {
+  margin-left: 10px;
+  clear: both;
+  margin-bottom: 20px;
+}
+
+.photo {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+  border-radius: 100px;
+}
+
+.name {
+  font-size: 36px;
+  padding-top: 30px;
+}
+
+.location {
+  margin-bottom: 15px;
+}
+
+.title {
+  font-weight: 600;
+  display: inline;
+}
+
+.company {
+  padding-left: 15px;
+  display: inline;
+}
+
+.degrees {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.endthing {
+  clear: both;
+  height: 20px;
+}
